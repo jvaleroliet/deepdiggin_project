@@ -35,4 +35,6 @@ The main steps of the project included:
 7. Evaluation of its performance.
 8. Creating the python and the gradio applications for production.
 
+## Considerations
 
+The audio and csv files are not uploaded here.S
