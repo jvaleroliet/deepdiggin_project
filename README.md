@@ -37,4 +37,4 @@ The main steps of the project included:
 
 ## Considerations
 
-The audio and csv files are not uploaded here.S
+The audio and csv files are not uploaded here.
